@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/fMvv2yojCi8AAAAd/eyes-anime.gif"/>
+  <img src="https://media.tenor.com/beBEVd4Pm9oAAAAC/aquatrope-of-white-sand-thinking.gif"/>
 </div>
